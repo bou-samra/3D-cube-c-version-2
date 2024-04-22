@@ -1,7 +1,7 @@
 # 3D cube C version 2
 Display a real-time rotating 3D vector line cube.
 
-![3d cube](https://github.com/bou-samra/3D-cube-c-version-1/blob/main/Screenshot%20from%202024-04-22%2018-43-41.png?raw=true "3d cube")
+![3d cube](https://github.com/bou-samra/3D-cube-c-version-2/blob/main/Screenshot%20from%202024-04-22%2019-25-23.png?raw=true "3d cube")
 
 ## Changelog:
 
